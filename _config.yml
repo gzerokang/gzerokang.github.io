@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "jizhou.kang@ucsf.edu"
+  email            : "mailto:jizhou.kang@ucsf.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
