@@ -1,19 +1,18 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "about"
     url: "/#about-me"
 
-  - title: "Research"
+  - title: "research"
     url: "/publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "teaching"
+    url: "/teaching"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "vita"
+    url: "/vita"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "misc"
+    url: "/misc"
 
-  - title: "Internships"
-    url: "/#-internships"
+
