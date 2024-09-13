@@ -5,18 +5,47 @@ excerpt: ""
 author_profile: false
 ---
 
-# 📝 Teaching
+# 👨🏻‍🏫 Instructor
 
-- <u>Kang, J.</u> and Kottas, A. (2022+), **"Structured Mixture of Continuation-ratio Logits Models for Ordinal Regression,"** [<a href="https://arxiv.org/pdf/2211.04034" target="_blank">Link</a>] Revision submitted.
-  
-  [*An earlier version received the 2022 ASA Section on Bayesian Statistical Science (SBSS) Student Paper Award*]
+- **STAT 7** Statistical Methods for the Biological, Environmental, and Health Sciences [<a href="/docs/Syllabus_STAT_7.pdf" target="_blank">Syllabus</a>]
 
-- <u>Kang, J.</u> and Kottas, A. (2023+), **"Flexible Bayesian Modeling for Longitudinal Binary and Ordinal Responses,"** [<a href="https://arxiv.org/pdf/2307.00224" target="_blank">Link</a>] Revision submitted.
-  
-  [*An earlier version received the 2023 ASA Mental Health Statistics Section (MHSS) Student Paper Award*]
+  UC Santa Cruz (Summer 2024)
 
-- <u>Kang, J.</u>, Koulis, T., and Pourmohamad, T. (2023+), **"Sample Size Reduction in Preclinical Experiments: A Bayesian Sequential Decision-Making Framework,"** Invited revision requested. 
+- **Coursera** Bayesian Statistics: Capstone Project [<a href="https://www.coursera.org/learn/bayesian-statistics-capstone" target="_blank">Link</a>]
 
-- <u>Kang, J.</u> and Kottas, A. (2024+), **"Bayesian Nonparametric Risk Assessment in Developmental Toxicity Studies with Ordinal Responses,"** [<a href="https://arxiv.org/pdf/2408.11803" target="_blank">Link</a>] Submitted, under review.
+  UC Santa Cruz 
 
-- <u>Kang, J.</u>, Kottas, A., Lee, W., and Munch, S. (2024+), **"Bayesian Modeling of Repeated Ordinal Responses Collected Under Different Treatments: An application to estimating maturity of Sheepshead Minnows,"** In preparation. 
+
+# 👨🏻‍💻 Teaching Assistant
+
+- **STAT 5** Statistics 
+
+  UC Santa Cruz (4 quarters)
+
+- **STAT 7** Statistical Methods for the Biological, Environmental, and Health Sciences
+
+  UC Santa Cruz (6 quarters)
+
+- **STAT 131** Introduction to Probability Theory 
+
+  UC Santa Cruz (2 quarters)
+
+- **STAT 132** Classical and Bayesian Inference
+
+  UC Santa Cruz (1 quarter)
+
+- **STAT 203** Introduction of Probability Theory (Graduate Level)
+
+  UC Santa Cruz (1 quarter)
+
+- **STAT 204** Introduction to Statistical Data Analysis (Graduate Level)
+
+  UC Santa Cruz (2 quarters)
+
+- **EN.553.310** Probability and Statistics for the Physical Sciences and Engineering 
+
+  Johns Hopkins University (1 semester)
+
+- **EN.553.613** Applied Statistics and Data Analysis (Graduate Level)
+
+  Johns Hopkins University (1 semester)
