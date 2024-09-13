@@ -1,3 +1,9 @@
+---
+title: "Publications"
+permalink: /publications
+excerpt: ""
+author_profile: false
+---
 
 # 📝 Research works 
 
