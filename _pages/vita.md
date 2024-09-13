@@ -5,18 +5,60 @@ excerpt: ""
 author_profile: false
 ---
 
-# 📝 Education 
+#  🎖 Honors and Awards
 
-- <u>Kang, J.</u> and Kottas, A. (2022+), **"Structured Mixture of Continuation-ratio Logits Models for Ordinal Regression,"** [<a href="https://arxiv.org/pdf/2211.04034" target="_blank">Link</a>] Revision submitted.
+- **Travel Award to the Bayesian Nonparametrics Networking Workshop in Australia**, 2023,
+
+  International Society for Bayesian Analysis (ISBA)
   
-  [*An earlier version received the 2022 ASA Section on Bayesian Statistical Science (SBSS) Student Paper Award*]
+- **Baskin Engineering Dissertation-Year Fellowship**, 2023,
 
-- <u>Kang, J.</u> and Kottas, A. (2023+), **"Flexible Bayesian Modeling for Longitudinal Binary and Ordinal Responses,"** [<a href="https://arxiv.org/pdf/2307.00224" target="_blank">Link</a>] Revision submitted.
+  Baskin School of Engineering, UC Santa Cruz
+
+- **Student Paper Award**, 2023,
+
+  Mental Health Statistics Section, American Statistical Association
   
-  [*An earlier version received the 2023 ASA Mental Health Statistics Section (MHSS) Student Paper Award*]
+- **Travel Award to the 13th International Conference on Bayesian Nonparametrics in Chile**, 2022,
 
-- <u>Kang, J.</u>, Koulis, T., and Pourmohamad, T. (2023+), **"Sample Size Reduction in Preclinical Experiments: A Bayesian Sequential Decision-Making Framework,"** Invited revision requested. 
+  International Society for Bayesian Analysis (ISBA)
 
-- <u>Kang, J.</u> and Kottas, A. (2024+), **"Bayesian Nonparametric Risk Assessment in Developmental Toxicity Studies with Ordinal Responses,"** [<a href="https://arxiv.org/pdf/2408.11803" target="_blank">Link</a>] Submitted, under review.
+- **Student Paper Award**, 2022,
 
-- <u>Kang, J.</u>, Kottas, A., Lee, W., and Munch, S. (2024+), **"Bayesian Modeling of Repeated Ordinal Responses Collected Under Different Treatments: An application to estimating maturity of Sheepshead Minnows,"** In preparation. 
+  Section on Bayesian Statistical Science, American Statistical Association
+  
+- **Dean’s Travel Grant**, 2021,
+
+  Graduate Division, UC Santa Cruz
+
+- **Regent's Fellowship**, 2019,
+
+  Graduate Division, UC Santa Cruz
+
+- **Everest Scholarship 2nd Prize**, 2015,
+
+  China Ministry of Education 
+ 
+</div>
+</div>
+
+# 🎤 Presentations
+- 2024 UC Santa Cruz Graduate Research Symposium, Contributed Talk, Santa Cruz CA, USA
+- 2023 Bayesian Nonparametrics Networking Workshop, Contributed Talk, Melbourne, Australia
+- 2023 Bayesian Young Statisticians Meeting, Contributed Talk, Online
+- 2023 Joint Statistical Meetings, Contributed Talk, Toronto, Canada
+- 2023 UC Santa Cruz Graduate Research Symposium, Contributed Talk, Santa Cruz CA, USA
+- 2023 UC Santa Cruz Grad Slam, Contributed Talk, Santa Cruz CA, USA
+- 2022 13th International Conference on Bayesian Nonparametrics,  Contributed Talk, Puerto Varas, Chile
+- 2022 14th Objective Bayes Methodology Conference, Poster, Santa Cruz CA, USA
+- 2022 Joint Statistical Meetings, **Topic Contributed Talk**, Washington DC, USA
+- 2022 UCSC Postdocs Association Annual Research Symposium, Contributed Talk, Santa Cruz CA, USA
+- 2021 ISBA World Meeting, Contributed Talk, Online
+
+</div>
+</div>
+
+# 🖥️ Work Experience
+
+- *Data and Statistical Science Intern*, Genentech, Jun 2023 - Sep 2023
+- *Researcher and Data Analyst*, Fudan University, May 2018 - Aug 2019 
