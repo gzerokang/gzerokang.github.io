@@ -28,9 +28,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *Sep 2024*: &nbsp;🎉🎉 I joined [Dr. Fei Jiang's Lab](https://jianglab.ucsf.edu/) at UCSF as a postdoctoral scholar.
-- *Aug 2024*: &nbsp;🎉🎉 I completed teaching my first class as an instructor. [<a href="/docs/Syllabus_STAT_7.pdf" target="_blank">Syllabus</a>]
-- *May 2024*: &nbsp;🎉🎉 I successfully defended my Ph.D. dissertation in Statistical Science at UC Santa Cruz. [<a href="/docs/defense.pdf" target="_blank">Slides</a>]
+- *Sep 2024*: &nbsp;🎉 I joined [Dr. Fei Jiang's Lab](https://jianglab.ucsf.edu/) at UCSF as a postdoctoral scholar.
+- *Aug 2024*: &nbsp;🎉 I completed teaching my first class as an instructor. [<a href="/docs/Syllabus_STAT_7.pdf" target="_blank">Syllabus</a>]
+- *May 2024*: &nbsp;🎉 I successfully defended my Ph.D. dissertation in Statistical Science at UC Santa Cruz. [<a href="/docs/defense.pdf" target="_blank">Slides</a>]
 
 
 # 🚀 Project Highlights
