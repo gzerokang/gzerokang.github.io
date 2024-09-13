@@ -32,6 +32,34 @@ My research interest includes neural machine translation and computer vision. I 
 - *Aug 2024*: &nbsp;🎉🎉 I completed teaching my first class as an instructor. [<a href="/docs/Syllabus_STAT_7.pdf" target="_blank">Syllabus</a>]
 - *May 2024*: &nbsp;🎉🎉 I successfully defended my Ph.D. dissertation in Statistical Science at UC Santa Cruz. [<a href="/docs/defense.pdf" target="_blank">Slides</a>]
 
+
+# 🚀 Project Highlights
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/lddpmarginband.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Structured Mixture of Continuation-ratio Logits Models for Ordinal Regression](https://arxiv.org/abs/2211.04034)
+
+We proposed a unified toolbox for ordinal regression by directly modeling the discrete response distribution. The virtues of the proposed models rely on the following key ingredients:
+ - Continuation-ratio logits representation;
+ - Pólya-Gamma data augmentation technique;
+ - Logit stick-breaking process prior.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/QuadAroProbCurve.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Flexible Bayesian Modeling for Longitudinal Binary and Ordinal Responses](https://arxiv.org/abs/2307.00224)
+
+We developed a modeling framework for the dynamic evolution of ordinal responses from longitudinal studies. The key features of the proposed model are:
+ - Flexible structure for the mean and covariance;
+ - Unified toolbox for balanced/unbalanced longitudinal studies with binary/ordinal outcomes;
+ - Computationally effcient posterior simulation method.
+</div>
+</div>
+   
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
