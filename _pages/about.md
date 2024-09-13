@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🚀 Project Highlights
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/lddpmarginband.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/lddpmarginband.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Structured Mixture of Continuation-ratio Logits Models for Ordinal Regression](https://arxiv.org/abs/2211.04034)
@@ -47,7 +47,7 @@ We proposed a unified toolbox for ordinal regression by directly modeling the di
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/QuadAroProbCurve.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/QuadAroProbCurve.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Flexible Bayesian Modeling for Longitudinal Binary and Ordinal Responses](https://arxiv.org/abs/2307.00224)
