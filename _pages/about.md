@@ -21,15 +21,16 @@ I am a postdoctoral scholar in the Department of Epidemiology and Biostatistics 
 
 I obtained my Ph.D. in Statistical Science from UC Santa Cruz, advised by Dr. [Athanasios Kottas](https://users.soe.ucsc.edu/~thanos/). My dissertation research centered on Bayesian nonparametric modeling techniques, where I developed a toolbox for ordinal regression, featuring flexible and efficient models tailored to various settings.
 
-I enjoy solving real-world problems and find fulfillment in applying statistical innovation to drive positive change. Feel free to reach out via email. 
+I enjoy solving real-world problems and find fulfillment in applying statistical innovation to drive positive change. Feel free to reach out. 
 
 <!--I enjoy solving real-world health problems and find fulfillment in applying statistical innovation to drive positive change. Visit my website: https://gzerokang.github.io
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Sep 2024*: &nbsp;🎉🎉 I joined [Dr. Fei Jiang's Lab](https://jianglab.ucsf.edu/) at UCSF as a postdoctoral scholar.
+- *Aug 2024*: &nbsp;🎉🎉 I completed teaching my first class as an instructor. 
+- *May 2024*: &nbsp;🎉🎉 I successfully defended my Ph.D. dissertation in Statistical Science at UC Santa Cruz. 
 
 # 📝 Publications 
 
