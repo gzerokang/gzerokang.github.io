@@ -1,11 +1,11 @@
 ---
-title: "Publications"
-permalink: /publications
+title: "Misc"
+permalink: /misc
 excerpt: ""
 author_profile: false
 ---
 
-# 📝 Research works 
+# 📝 Journal club
 
 - <u>Kang, J.</u> and Kottas, A. (2022+), **"Structured Mixture of Continuation-ratio Logits Models for Ordinal Regression,"** [<a href="https://arxiv.org/pdf/2211.04034" target="_blank">Link</a>] Revision submitted.
   
