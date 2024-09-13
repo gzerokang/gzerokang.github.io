@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a postdoctoral scholar in the Department of Epidemiology and Biostatistics at UC San Francisco, working on physics informed deep learning with application in cardiovascular and cerebrovascular imaging. I obtained my Ph.D. in Statistical Science from UC Santa Cruz, where my dissertation research focuses on developing Bayesian nonparametric models for flexible and efficient ordinal regression.
+I’m a postdoctoral scholar in the Department of Epidemiology and Biostatistics at UC San Francisco, working with Dr. [Fei Jiang](https://profiles.ucsf.edu/fei.jiang). I obtained my Ph.D. in Statistical Science from UC Santa Cruz, supervised by Dr. [Athanasios Kottas](https://users.soe.ucsc.edu/~thanos/).
 
-I enjoy solving real-world health problems and find fulfillment in applying statistical innovation to drive positive change. Visit my website: https://gzerokang.github.io
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!--I enjoy solving real-world health problems and find fulfillment in applying statistical innovation to drive positive change. Visit my website: https://gzerokang.github.io
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
 # 🔥 News
