@@ -5,18 +5,19 @@ excerpt: ""
 author_profile: false
 ---
 
-# 📝 Journal club
+# 📚 UCSC Statstics Journal Club
 
-- <u>Kang, J.</u> and Kottas, A. (2022+), **"Structured Mixture of Continuation-ratio Logits Models for Ordinal Regression,"** [<a href="https://arxiv.org/pdf/2211.04034" target="_blank">Link</a>] Revision submitted.
-  
-  [*An earlier version received the 2022 ASA Section on Bayesian Statistical Science (SBSS) Student Paper Award*]
+- Spring 2024: "Generalized Bayes for probabilistic clustering" [<a href="https://github.com/richardli/UCSC-Statistics-Journal-Club/blob/main/2024-Spring/Generalized%20Bayes%20for%20probabilistic%20clustering.pdf" target="_blank">Slides</a>]
 
-- <u>Kang, J.</u> and Kottas, A. (2023+), **"Flexible Bayesian Modeling for Longitudinal Binary and Ordinal Responses,"** [<a href="https://arxiv.org/pdf/2307.00224" target="_blank">Link</a>] Revision submitted.
-  
-  [*An earlier version received the 2023 ASA Mental Health Statistics Section (MHSS) Student Paper Award*]
+- Winter 2024: "Conformal inference of Individualized Treatment Effects" [<a href="https://github.com/richardli/UCSC-Statistics-Journal-Club/blob/main/2024-Winter/Meeting%204%20(Conformal%20inference%20of%20Individualized%20Treatment%20Effects).pdf" target="_blank">Notes</a>]
 
-- <u>Kang, J.</u>, Koulis, T., and Pourmohamad, T. (2023+), **"Sample Size Reduction in Preclinical Experiments: A Bayesian Sequential Decision-Making Framework,"** Invited revision requested. 
+- Spring 2023: "Bayesian Causal Inference" [<a href="/docs/Bayesian_Causal_Inference_Introduction_and_Examples.pdf" target="_blank">Report</a>] [<a href="/docs/Bayesian_Causal_Inference.pdf" target="_blank">Slides</a>]
 
-- <u>Kang, J.</u> and Kottas, A. (2024+), **"Bayesian Nonparametric Risk Assessment in Developmental Toxicity Studies with Ordinal Responses,"** [<a href="https://arxiv.org/pdf/2408.11803" target="_blank">Link</a>] Submitted, under review.
 
-- <u>Kang, J.</u>, Kottas, A., Lee, W., and Munch, S. (2024+), **"Bayesian Modeling of Repeated Ordinal Responses Collected Under Different Treatments: An application to estimating maturity of Sheepshead Minnows,"** In preparation. 
+# 📖 Notes by R Bookdown
+
+- **Stochastic Process Lecture Notes** [<a href="https://bookdown.org/jkang37/stochastic-process-lecture-notes/" target="_blank">Link</a>]
+
+- **Cracking The First Year Exam** [<a href="https://bookdown.org/jkang37/fye/" target="_blank">Link</a>]
+
+- **Classical Inference Notes** [<a href="https://bookdown.org/jkang37/stat205b-notes/" target="_blank">Link</a>]
