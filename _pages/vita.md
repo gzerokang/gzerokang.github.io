@@ -39,8 +39,6 @@ author_profile: false
 
   China Ministry of Education 
  
-</div>
-</div>
 
 # 🎤 Presentations
 - 2024 UC Santa Cruz Graduate Research Symposium, Contributed Talk, Santa Cruz CA, USA
@@ -55,8 +53,6 @@ author_profile: false
 - 2022 UCSC Postdocs Association Annual Research Symposium, Contributed Talk, Santa Cruz CA, USA
 - 2021 ISBA World Meeting, Contributed Talk, Online
 
-</div>
-</div>
 
 # 🖥️ Work Experience
 
