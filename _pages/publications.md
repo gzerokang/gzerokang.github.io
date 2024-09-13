@@ -7,9 +7,11 @@ author_profile: false
 
 # 📝 Research works 
 
-- <u>Kang, J.</u> and Kottas, A. (2022+), **Structured Mixture of Continuation-ratio Logits Models for Ordinal Regression**. [<a href="https://arxiv.org/pdf/2211.04034" target="_blank">Link</a>] Revision submitted. 
+- <u>Kang, J.</u> and Kottas, A. (2022+), **Structured Mixture of Continuation-ratio Logits Models for Ordinal Regression**. [<a href="https://arxiv.org/pdf/2211.04034" target="_blank">Link</a>] Revision submitted.
+  [*An earlier version received the 2022 ASA Section on Bayesian Statistical Science (SBSS) Student Paper Award*]
 
 - <u>Kang, J.</u> and Kottas, A. (2023+), **Flexible Bayesian Modeling for Longitudinal Binary and Ordinal Responses**. [<a href="https://arxiv.org/pdf/2307.00224" target="_blank">Link</a>] Revision submitted.
+  [*An earlier version received the 2023 ASA Mental Health Statistics Section (MHSS) Student Paper Award*]
 
 - <u>Kang, J.</u>, Koulis, T., and Pourmohamad, T. (2023+), **Sample Size Reduction in Preclinical Experiments: A Bayesian Sequential Decision-Making Framework**. Invited revision requested. 
 
