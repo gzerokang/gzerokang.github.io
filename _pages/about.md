@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral scholar in the Department of Epidemiology and Biostatistics at UC San Francisco, working with Dr. [Fei Jiang](https://profiles.ucsf.edu/fei.jiang). Currently, I am focusing on leveraging statistical techniques to enhance modern deep learning practices in cardiovascular and cerebrovascular imaging. 
+I am a Research Data Scientist at Google. 
 
-I obtained my Ph.D. in Statistical Science from UC Santa Cruz, advised by Dr. [Athanasios Kottas](https://users.soe.ucsc.edu/~thanos/). My dissertation research centered on Bayesian nonparametric modeling techniques, where I developed a toolbox for ordinal regression, featuring flexible and efficient models tailored to various settings.
+I obtained my Ph.D. in Statistical Science from UC Santa Cruz, advised by Dr. [Athanasios Kottas](https://users.soe.ucsc.edu/~thanos/). My dissertation research centered on Bayesian nonparametric modeling techniques, where I developed a toolbox for ordinal regression, featuring flexible and efficient models tailored to various settings. Before joining Google, I was a postdoctoral scholar at UC San Francisco.
 
 I enjoy solving real-world problems and find fulfillment in applying statistical innovation to drive positive change. Feel free to reach out. 
 
@@ -28,8 +28,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *Sep 2024*: &nbsp;🎉 I joined [Dr. Fei Jiang's Lab](https://jianglab.ucsf.edu/) at UCSF as a postdoctoral scholar.
-- *Aug 2024*: &nbsp;🎉 I completed teaching my first class as an instructor. [<a href="/docs/Syllabus_STAT_7.pdf" target="_blank">Syllabus</a>]
+- *Jan 2025*: &nbsp;🎉 Our paper received the student paper award from the Risk Analysis Section of ASA. [<a href="https://arxiv.org/abs/2408.11803" target="_blank">Paper</a>]
+- *Oct 2024*: &nbsp;🎉 Our paper is accepted by Statistics and Computing. [<a href="https://link.springer.com/article/10.1007/s11222-024-10525-2" target="_blank">Paper</a>] [<a href="https://github.com/gzerokang/BNP-Longitudinal-Binary-Ordinal-STCO24" target="_blank">Code</a>]
 - *May 2024*: &nbsp;🎉 I successfully defended my Ph.D. dissertation in Statistical Science at UC Santa Cruz. [<a href="/docs/defense.pdf" target="_blank">Slides</a>]
 
 
@@ -47,10 +47,10 @@ We proposed a unified toolbox for ordinal regression by directly modeling the di
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/QuadAroProbCurve.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STCO</div><img src='images/QuadAroProbCurve.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Flexible Bayesian Modeling for Longitudinal Binary and Ordinal Responses](https://arxiv.org/abs/2307.00224)
+[Flexible Bayesian Modeling for Longitudinal Binary and Ordinal Responses](https://link.springer.com/article/10.1007/s11222-024-10525-2)
 
 We developed a modeling framework for the dynamic evolution of ordinal responses from longitudinal studies. The key features of the proposed model are:
  - Flexible structure for the mean and covariance;
